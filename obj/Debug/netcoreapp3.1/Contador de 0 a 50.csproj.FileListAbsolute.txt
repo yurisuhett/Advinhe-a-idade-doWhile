@@ -1,0 +1,13 @@
+C:\Users\yuris\Desktop\Contador de 0 a 50\bin\Debug\netcoreapp3.1\Contador de 0 a 50.exe
+C:\Users\yuris\Desktop\Contador de 0 a 50\bin\Debug\netcoreapp3.1\Contador de 0 a 50.deps.json
+C:\Users\yuris\Desktop\Contador de 0 a 50\bin\Debug\netcoreapp3.1\Contador de 0 a 50.runtimeconfig.json
+C:\Users\yuris\Desktop\Contador de 0 a 50\bin\Debug\netcoreapp3.1\Contador de 0 a 50.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\Contador de 0 a 50\bin\Debug\netcoreapp3.1\Contador de 0 a 50.dll
+C:\Users\yuris\Desktop\Contador de 0 a 50\bin\Debug\netcoreapp3.1\Contador de 0 a 50.pdb
+C:\Users\yuris\Desktop\Contador de 0 a 50\obj\Debug\netcoreapp3.1\Contador de 0 a 50.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\Contador de 0 a 50\obj\Debug\netcoreapp3.1\Contador de 0 a 50.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\Contador de 0 a 50\obj\Debug\netcoreapp3.1\Contador de 0 a 50.AssemblyInfo.cs
+C:\Users\yuris\Desktop\Contador de 0 a 50\obj\Debug\netcoreapp3.1\Contador de 0 a 50.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Desktop\Contador de 0 a 50\obj\Debug\netcoreapp3.1\Contador de 0 a 50.dll
+C:\Users\yuris\Desktop\Contador de 0 a 50\obj\Debug\netcoreapp3.1\Contador de 0 a 50.pdb
+C:\Users\yuris\Desktop\Contador de 0 a 50\obj\Debug\netcoreapp3.1\Contador de 0 a 50.genruntimeconfig.cache
